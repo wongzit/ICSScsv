@@ -11,6 +11,9 @@ Last updated at 2021-04-24.
 Author: Zhe Wang
 
 ## Update history
+### 2021-04-26
+ICSS map of benzene created by ICSScsv and Origin Pro 2021 has been uploaded into **example** folder.
+
 ### v1.0 (2021-04-24): Main feature
 1. Improved output file reading.
 2. Executable file for macOS/Linux/Microsoft Windows are released.
