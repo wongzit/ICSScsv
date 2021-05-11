@@ -1,4 +1,4 @@
-# ICSScsv v1.0
+# ICSScsv v2.0
 ![ICSScsv_full](https://user-images.githubusercontent.com/41381763/115954588-ceb45180-a52c-11eb-9aac-94099a09b8e7.png)
 A program for extracting magnetic shielding tensor from ICSS calculation output.
 
@@ -6,11 +6,14 @@ A program for extracting magnetic shielding tensor from ICSS calculation output.
 
 First released at 2021-04-23.
 
-Last updated at 2021-04-24.
+Last updated at 2021-05-11.
 
 Author: Zhe Wang
 
 ## Update history
+### 2021-05-11
+ICSScsv v2.0 source code was uploaded.
+
 ### 2021-04-26
 ICSS map of benzene created by ICSScsv and Origin Pro 2021 has been uploaded into **example** folder.
 
