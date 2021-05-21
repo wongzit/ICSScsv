@@ -37,7 +37,7 @@ More information about ICSSgen, please check [ICSSgen](https://github.com/wongzi
 1. First beta release!
 
 ## How to run
-For more information, please check the user manual.
+For detail information, please check the user manual.
 
 ### For all platform
 Python source code is provided, if your computer already installed Python IDE, you can run ICSScsv with:
