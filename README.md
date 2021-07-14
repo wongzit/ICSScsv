@@ -1,4 +1,4 @@
-# ICSScsv v2.2
+# ICSScsv v3.1
 ![ICSScsv_icon](ICSScsv_icon.png)
 
 Extract magnetic shielding tensor from ICSS calculation output.
@@ -25,6 +25,10 @@ and user-friendly Python programs, to easily generate 2D-ICSS maps.
 More information about ICSSgen, please check [ICSSgen](https://github.com/wongzit/ICSSgen)
 
 ## Update history
+### v3.1 (2021-07-14)
+1. Now ICSScsv would show the 2D-ICSS map after processing the output file, and the .png file would be saved in the same folder.
+2. Executable files were removed due to the large file size excessed the limitation of GitHub. Please download from [here](https://www.wangzhe95.net/program-icsscsv).
+
 ### v2.2 (2021-05-24)
 Bug fixed.
 
